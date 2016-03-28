@@ -1,0 +1,20 @@
+﻿@model List<Artist>
+
+@{
+    ViewBag.Title = "displayEvent";
+}
+@*<h2>@ViewBag.Title</h2>*@
+@*<h3>@ViewBag.Message</h3>*@
+
+<div class="jumbotron">
+    @foreach (Artist artist in Model)
+    {
+        <pf_mouseover>
+            <h3><a href="@artist.profileURL">@artist.name</a></h3>
+            <div>
+                <img src="@artist.profileImage" alt="" class="normal">
+            </div>
+        </pf_mouseover>
+    }
+</div>
+

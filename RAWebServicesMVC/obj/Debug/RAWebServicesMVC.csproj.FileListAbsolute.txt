@@ -1,0 +1,106 @@
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\ApplicationInsights.config
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\csc.exe
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\vbc.exe
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\RAWebServicesMVC.dll.config
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\RAWebServicesMVC.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\RAWebServicesMVC.pdb
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Antlr3.Runtime.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.Web.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Newtonsoft.Json.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Helpers.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Mvc.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Optimization.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Razor.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\WebGrease.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.Web.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Helpers.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Mvc.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Optimization.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Razor.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Antlr3.Runtime.pdb
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\bin\Newtonsoft.Json.xml
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\obj\Debug\RAWebServicesMVC.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\obj\Debug\RAWebServicesMVC.dll
+c:\users\patrick\documents\visual studio 2015\Projects\RAWebServicesMVC\RAWebServicesMVC\obj\Debug\RAWebServicesMVC.pdb
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\ApplicationInsights.config
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\csc.exe
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\vbc.exe
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\RAWebServicesMVC.dll.config
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\RAWebServicesMVC.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\RAWebServicesMVC.pdb
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Antlr3.Runtime.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Newtonsoft.Json.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Helpers.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Mvc.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Optimization.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Razor.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\WebGrease.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Helpers.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Mvc.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Optimization.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.Razor.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\bin\Newtonsoft.Json.xml
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\obj\Debug\RAWebServicesMVC.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\obj\Debug\RAWebServicesMVC.dll
+C:\Users\Patrick\Google Drive\Documents\Visual Studio 2015\RAWebServicesMVC\RAWebServicesMVC\obj\Debug\RAWebServicesMVC.pdb

@@ -1,0 +1,9 @@
+﻿mouseover {
+    border: 1px solid;
+}
+pf_mouseover div {
+    display: none;
+}
+pf_mouseover:hover div {
+    display: block;
+}
